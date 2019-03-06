@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: adcg@gmail.com
 description: "像小白一样思考，像专家一样行动."
 keyword: "丁丁, DD-Team, 丁丁的博客 "
-url: "http://DD-Team。github.io"          # your host, for absolute URL
+url: "http://DD-Team.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/DD-Team/DD-Team.github.io.git" # you code repository
 
